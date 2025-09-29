@@ -188,3 +188,4 @@ MIT License
 Check troubleshooting section or review logs for errors.
 
 ## **Note**: Update `WEBHOOK_URL` after each ngrok restart.
+## Remember to copy code from google-apps-script.js to Google App Script. As this is just for refrence here. Actual working of this code will on Google App Script. Refer to section 4.2 Connect Google Forms to Webhook on How to do it.
