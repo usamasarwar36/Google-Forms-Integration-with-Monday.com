@@ -1,4 +1,4 @@
-const WEBHOOK_URL = 'https://112f53e044c0.ngrok-free.app/google-forms-webhook';
+const WEBHOOK_URL = 'https://brave-ideas-glow.loca.lt/google-forms-webhook';
 
 function onFormSubmit(e) {
   console.log('🔔🔔🔔 onFormSubmit TRIGGERED at: ' + new Date().toISOString());
